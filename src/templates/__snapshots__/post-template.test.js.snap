@@ -44,7 +44,7 @@ exports[`PostTemplate renders correctly 1`] = `
           className="meta__date"
         >
           Published 
-          Sep 1, 2016
+          Aug 31, 2016
         </p>
       </div>
       <div
@@ -87,12 +87,7 @@ exports[`PostTemplate renders correctly 1`] = `
             href="https://www.twitter.com/#"
             rel="noopener noreferrer"
             target="_blank"
-          >
-            <strong>
-              Test name
-            </strong>
-             on Twitter
-          </a>
+          />
         </p>
       </div>
     </div>
